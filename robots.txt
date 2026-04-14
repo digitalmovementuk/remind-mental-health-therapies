@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.remindmht.com/sitemap.xml
+Sitemap: https://digitalmovementuk.github.io/remind-mental-health-therapies/sitemap.xml
